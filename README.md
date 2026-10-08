@@ -17,6 +17,7 @@
 🎮 **Fora da tela do Figma:**
 * Jogadora apaixonada, trophy hunter focada em platinas 🏆 (e sobrevivendo aos jogos da melhor forma possível!).
 
+---
 
 <p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=biancamartinelli.&redirect=true">
