@@ -1,9 +1,11 @@
-<div dsplay="inline-block">
+<h1>Bianca Martinelli 🖤</h1>
 
-<div dsplay="inline-block">
-
- <h1 align="top">Bianca Martinelli 🖤</h1><img align="left" width="300px" style="margin-top:-50px" src="https://imgur.com/FZ4DNDE.png">
-<p align="top">
+<table>
+  <tr>
+    <td valign="top" width="300">
+      <img src="https://imgur.com/FZ4DNDE.png" width="300" alt="Bianca Anime Avatar" />
+    </td>
+    <td valign="top">
 
 🎃 Product Designer e criativa focada em **UI/UX, Design Strategy e Design Systems**. Adoro transformar problemas complexos em interfaces fluidas e eficientes — e estou sempre explorando como a IA pode elevar o processo criativo.
 
@@ -15,11 +17,17 @@
 🎮 **Fora da tela do Figma:**
 * Jogadora apaixonada, trophy hunter focada em platinas 🏆 (e sobrevivendo aos jogos da melhor forma possível!).
 
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=biancamartinelli.&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
