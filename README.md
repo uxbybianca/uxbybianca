@@ -4,9 +4,6 @@
 
  <h1 align="left">Bianca Martinelli 🖤</h1><img align="left" width="300px" style="margin-top:-50px" src="https://imgur.com/FZ4DNDE.png">
 <p align="left">
-  
-</br><img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
-</p> 
 
 🎃 Product Designer e criativa focada em **UI/UX, Design Strategy e Design Systems**. Adoro transformar problemas complexos em interfaces fluidas e eficientes — e estou sempre explorando como a IA pode elevar o processo criativo.
 
