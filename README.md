@@ -2,8 +2,8 @@
 
 <div dsplay="inline-block">
 
- <h1 align="left">Bianca Martinelli 🖤</h1><img align="left" width="300px" style="margin-top:-50px" src="https://imgur.com/FZ4DNDE.png">
-<p align="left">
+ <h1 align="top">Bianca Martinelli 🖤</h1><img align="left" width="300px" style="margin-top:-50px" src="https://imgur.com/FZ4DNDE.png">
+<p align="top">
 
 🎃 Product Designer e criativa focada em **UI/UX, Design Strategy e Design Systems**. Adoro transformar problemas complexos em interfaces fluidas e eficientes — e estou sempre explorando como a IA pode elevar o processo criativo.
 
