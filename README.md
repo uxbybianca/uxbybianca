@@ -18,7 +18,7 @@
 * Jogadora apaixonada, trophy hunter focada em platinas 🏆 (e sobrevivendo aos jogos da melhor forma possível!).
 
 
-<p align="center">
+<p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=biancamartinelli.&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=biancamartinelli.&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
@@ -40,12 +40,3 @@
 ##
                              
 
-
-  <h3>➤ Status </h3>
-<p align="left">
-<a href="https://github.com/uxbybianca">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uxbybianca&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uxbybianca&layout=compact&langs_count=8&theme=nightowl&hide_border=true&border_radius=5"/>
-
-</a>
-</p>
