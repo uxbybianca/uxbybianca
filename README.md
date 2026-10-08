@@ -2,7 +2,7 @@
 
 <div dsplay="inline-block">
 
- <h1 align="left">Bianca Martinelli 🖤</h1><img align="left" width="200px" style="margin-top:-50px" src="https://imgur.com/FZ4DNDE.png">
+ <h1 align="left">Bianca Martinelli 🖤</h1><img align="left" width="300px" style="margin-top:-50px" src="https://imgur.com/FZ4DNDE.png">
 <p align="left">
   
 </br><img src= "https://media.tenor.com/XOO-63-4CygAAAAd/angry-kitten-angry-cat.gif" width="250" align="right">
@@ -38,9 +38,9 @@
 
   <h3>➤ Status </h3>
 <p align="left">
-<a href="https://github.com/biancamartinelli">
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=biancamartinelli&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=biancamartinelli&layout=compact&langs_count=8&theme=nightowl&hide_border=true&border_radius=5"/>
+<a href="https://github.com/uxbybianca">
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uxbybianca&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true&border_radius=5"/>
+<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uxbybianca&layout=compact&langs_count=8&theme=nightowl&hide_border=true&border_radius=5"/>
 
 </a>
 </p>
